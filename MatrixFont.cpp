@@ -86,6 +86,9 @@ const bitmap_font *fontArray[] = {
     &apple5x7,
     &apple6x10,
     &apple8x13,
+    &profont6x12,
+    &gohufont6x11,
+    &gohufontb6x11,
 };
 
 const bitmap_font *SmartMatrix::fontLookup(fontChoices font) {
